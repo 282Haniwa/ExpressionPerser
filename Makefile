@@ -1,6 +1,7 @@
+PROJECT = ExpressionPerser
 TARGET	= Example
 
-ZIP_FILE	= $(TARGET).zip
+ZIP_FILE	= $(PROJECT).zip
 
 CLEAN_FILE	= *.pyc $(ZIP_FILE)
 
